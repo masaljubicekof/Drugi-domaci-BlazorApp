@@ -1,0 +1,90 @@
+@page "/funfactorial"
+
+<PageTitle>Fun Factorial</PageTitle>
+
+<h1>🎉 Fun Factorial 🎉</h1>
+
+<div>
+    <label>Enter a number:</label>
+    <input type="number" style="width:80px;text-align:right" @bind="num" min="0" />
+    <button class="btn btn-success" @onclick="CalculateFactorial">Let's Go 🚀</button>
+</div>
+
+@if (steps.Count > 0)
+{
+    <h3>🔢 Steps:</h3>
+    <ul>
+        @foreach (var step in steps)
+        {
+            <li>@step</li>
+        }
+    </ul>
+}
+
+@if (progress > 0)
+{
+    <div class="progress my-3" style="height: 30px;">
+        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated"
+             role="progressbar"
+             style="width:@progress%">
+             @progress%
+        </div>
+    </div>
+}
+
+@if (calculated)
+{
+    <div class="alert alert-info mt-3">
+        <h4>🎯 Final Result 🎯</h4>
+        <p>@num! = <b>@result</b></p>
+    </div>
+}
+
+@code {
+    private int num = 0;
+    private long result = 1;
+    private bool calculated = false;
+    private int progress = 0;
+    private List<string> steps = new();
+    private Random rnd = new();
+
+    private async Task CalculateFactorial()
+    {
+        steps.Clear();
+        result = 1;
+        calculated = false;
+        progress = 0;
+
+        if (num < 0)
+        {
+            steps.Add("❌ Error: number must not be negative!");
+            result = long.MinValue;
+            return;
+        }
+
+        if (num == 0)
+        {
+            steps.Add("0! = 1 🎉");
+            result = 1;
+            calculated = true;
+            progress = 100;
+            return;
+        }
+
+        string[] emojis = { "🚀", "🎯", "⚡", "🔥", "🎲", "🌟", "🍀" };
+
+        for (int i = 1; i <= num; i++)
+        {
+            result *= i;
+            string emoji = emojis[rnd.Next(emojis.Length)];
+            steps.Add($"{i}! = {result} {emoji}");
+
+            progress = (int)((i / (double)num) * 100);
+            StateHasChanged();
+            await Task.Delay(250); // animation delay
+        }
+
+        calculated = true;
+        progress = 100;
+    }
+}
