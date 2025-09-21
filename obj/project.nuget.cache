@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "etxh2AxCd4s=",
+  "dgSpecHash": "cZYl/YVqs3A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\masa0\\OneDrive\\Documents\\DSS\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\masa0\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\masa0\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",
