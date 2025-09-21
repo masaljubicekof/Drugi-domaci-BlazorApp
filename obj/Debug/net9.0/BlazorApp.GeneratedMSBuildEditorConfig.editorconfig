@@ -13,45 +13,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = C:\Users\masa0\OneDrive\Documents\DSS\BlazorApp\
+build_property.ProjectDir = C:\Users\masa0\source\repos\DSS\ekof-dss-teaching-samples\01-html-css-bootstrap\wwwroot\MyBlzorApp\Drugi-domaci-BlazorApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\masa0\OneDrive\Documents\DSS\BlazorApp
+build_property.MSBuildProjectDirectory = C:\Users\masa0\source\repos\DSS\ekof-dss-teaching-samples\01-html-css-bootstrap\wwwroot\MyBlzorApp\Drugi-domaci-BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/App.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/Pages/Counter.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/Pages/Factorial.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/Pages/Factorial.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdG9yaWFsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/Pages/Home.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/Pages/FunFactorial.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVuRmFjdG9yaWFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/Pages/Weather.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/_Imports.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/Layout/MainLayout.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-kc989pta5g
 
-[C:/Users/masa0/OneDrive/Documents/DSS/BlazorApp/Layout/NavMenu.razor]
+[C:/Users/masa0/source/repos/DSS/ekof-dss-teaching-samples/01-html-css-bootstrap/wwwroot/MyBlzorApp/Drugi-domaci-BlazorApp/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-iqpjrornlq

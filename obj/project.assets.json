@@ -1763,11 +1763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\masa0\\OneDrive\\Documents\\DSS\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Users\\masa0\\OneDrive\\Documents\\DSS\\BlazorApp\\BlazorApp.csproj",
+      "projectPath": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\masa0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\masa0\\OneDrive\\Documents\\DSS\\BlazorApp\\obj\\",
+      "outputPath": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
