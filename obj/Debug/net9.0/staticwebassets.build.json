@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QerOBZvA9/QQiGshqsFZFOtTcQE4mhvusGoMYC9kdgo=",
+  "Hash": "dp6RA0CQ/CVH6BPlSmBi1IWF0EpJCUjGJlcUUN5qrK8=",
   "Source": "BlazorApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "gv1ja1xbuw",
-      "Integrity": "xLGb9G1paHjX2OnQBTjK1+QeB2NN9wfFZEH8LL/9Pxg=",
+      "Fingerprint": "41b22x7j8y",
+      "Integrity": "WDpc80IJqDVbTDYiTfFrHO4YkjrVizRmeztWBVPjV+o=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "v0x2ec0fca",
-      "Integrity": "Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE=",
+      "Fingerprint": "wovm2tp3lr",
+      "Integrity": "EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\BlazorApp.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "cq4lxbt9uc",
-      "Integrity": "zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs=",
+      "Fingerprint": "k1a3bxlx0u",
+      "Integrity": "mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\webcil\\BlazorApp.wasm"
@@ -5204,12 +5204,12 @@
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Core.wasm"
     },
     {
-      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-cq4lxbt9uc.gz",
+      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-k1a3bxlx0u.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorApp#[.{fingerprint=cq4lxbt9uc}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorApp#[.{fingerprint=k1a3bxlx0u}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5218,8 +5218,8 @@
       "RelatedAsset": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "letgerals4",
-      "Integrity": "Iw3g8ZF/1SeMQy4j8pJJCjeuj/AqHpXakFT3UsUthBg=",
+      "Fingerprint": "3pc0a2qq1v",
+      "Integrity": "uQ3TJlR54dnXjb+Vb9nefqAEwRW0rFivlRsmvFdQd78=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp.wasm"
@@ -6191,12 +6191,12 @@
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Web.wasm"
     },
     {
-      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-6npwuytmlh.gz",
+      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-iym5m5pygo.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=6npwuytmlh}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=iym5m5pygo}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6205,8 +6205,8 @@
       "RelatedAsset": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fbd54bl9sf",
-      "Integrity": "q/KTvyhxIYADZvIt+qO2sy2tLTQEjWJ+T8rYH3HKTcs=",
+      "Fingerprint": "xnkxuhzxhi",
+      "Integrity": "3Rhc4Gb0mPEpknMB2KXRCO9q/G34xNTcm6rSpbDuNmE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\wwwroot\\index.html"
@@ -6653,12 +6653,12 @@
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.Emit.wasm"
     },
     {
-      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-nnkxdvz8n1.gz",
+      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-ir9v83y2oe.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "BlazorApp#[.{fingerprint=nnkxdvz8n1}]!.bundle.scp.css.gz",
+      "RelativePath": "BlazorApp#[.{fingerprint=ir9v83y2oe}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -6667,8 +6667,8 @@
       "RelatedAsset": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "h14hgzzzwq",
-      "Integrity": "tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=",
+      "Fingerprint": "e9v5ozcw7d",
+      "Integrity": "gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
@@ -7094,7 +7094,7 @@
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Configuration.wasm"
     },
     {
-      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\k4a7psrd0j-gv1ja1xbuw.gz",
+      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\k4a7psrd0j-41b22x7j8y.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -7108,8 +7108,8 @@
       "RelatedAsset": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cvan4bni73",
-      "Integrity": "OOlVEpsDN/+zf8gyGj5A8tfy0LNqUZhuOhFjilSxjYI=",
+      "Fingerprint": "zzdwyraw0l",
+      "Integrity": "31wgSjnp3nZzB10ZFGB6i/0d6GwrULvu0cBfpw1ggJ8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8648,12 +8648,12 @@
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Text.Encoding.wasm"
     },
     {
-      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-v0x2ec0fca.gz",
+      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-wovm2tp3lr.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorApp#[.{fingerprint=v0x2ec0fca}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorApp#[.{fingerprint=wovm2tp3lr}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "x7004biytw",
-      "Integrity": "486DPpYrc1WzADLkyaL/UyQiMvriFvDQVLXy571VYTM=",
+      "Fingerprint": "zb9jgb86aw",
+      "Integrity": "AS7b/Rc4kZupbnbrZ+BfCvwUzwLbLEDlfozMafIsCCA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp.pdb"
@@ -8690,12 +8690,12 @@
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-nnkxdvz8n1.gz",
+      "Identity": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-ir9v83y2oe.gz",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "BlazorApp#[.{fingerprint=nnkxdvz8n1}]?.styles.css.gz",
+      "RelativePath": "BlazorApp#[.{fingerprint=ir9v83y2oe}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "h14hgzzzwq",
-      "Integrity": "tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=",
+      "Fingerprint": "e9v5ozcw7d",
+      "Integrity": "gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css"
@@ -9628,8 +9628,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "nnkxdvz8n1",
-      "Integrity": "LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=",
+      "Fingerprint": "ir9v83y2oe",
+      "Integrity": "0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css"
@@ -9649,8 +9649,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "nnkxdvz8n1",
-      "Integrity": "LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=",
+      "Fingerprint": "ir9v83y2oe",
+      "Integrity": "0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
@@ -9733,8 +9733,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6npwuytmlh",
-      "Integrity": "LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g=",
+      "Fingerprint": "iym5m5pygo",
+      "Integrity": "huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xLGb9G1paHjX2OnQBTjK1+QeB2NN9wfFZEH8LL/9Pxg=\""
+          "Value": "\"WDpc80IJqDVbTDYiTfFrHO4YkjrVizRmeztWBVPjV+o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10719,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xLGb9G1paHjX2OnQBTjK1+QeB2NN9wfFZEH8LL/9Pxg="
+          "Value": "sha256-WDpc80IJqDVbTDYiTfFrHO4YkjrVizRmeztWBVPjV+o="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\k4a7psrd0j-gv1ja1xbuw.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\k4a7psrd0j-41b22x7j8y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081386832"
+          "Quality": "0.000081380208"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10740,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12286"
+          "Value": "12287"
         },
         {
           "Name": "ETag",
-          "Value": "\"OOlVEpsDN/+zf8gyGj5A8tfy0LNqUZhuOhFjilSxjYI=\""
+          "Value": "\"31wgSjnp3nZzB10ZFGB6i/0d6GwrULvu0cBfpw1ggJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:50:14 GMT"
+          "Value": "Mon, 22 Sep 2025 16:48:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xLGb9G1paHjX2OnQBTjK1+QeB2NN9wfFZEH8LL/9Pxg=\""
+          "Value": "W/\"WDpc80IJqDVbTDYiTfFrHO4YkjrVizRmeztWBVPjV+o=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xLGb9G1paHjX2OnQBTjK1+QeB2NN9wfFZEH8LL/9Pxg="
+          "Value": "sha256-WDpc80IJqDVbTDYiTfFrHO4YkjrVizRmeztWBVPjV+o="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\k4a7psrd0j-gv1ja1xbuw.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\k4a7psrd0j-41b22x7j8y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12286"
+          "Value": "12287"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OOlVEpsDN/+zf8gyGj5A8tfy0LNqUZhuOhFjilSxjYI=\""
+          "Value": "\"31wgSjnp3nZzB10ZFGB6i/0d6GwrULvu0cBfpw1ggJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:50:14 GMT"
+          "Value": "Mon, 22 Sep 2025 16:48:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OOlVEpsDN/+zf8gyGj5A8tfy0LNqUZhuOhFjilSxjYI="
+          "Value": "sha256-31wgSjnp3nZzB10ZFGB6i/0d6GwrULvu0cBfpw1ggJ8="
         }
       ]
     },
@@ -10961,7 +10961,7 @@
       ]
     },
     {
-      "Route": "_framework/BlazorApp.cq4lxbt9uc.wasm",
+      "Route": "_framework/BlazorApp.k1a3bxlx0u.wasm",
       "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10979,11 +10979,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs=\""
+          "Value": "\"mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:47 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10993,7 +10993,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cq4lxbt9uc"
+          "Value": "k1a3bxlx0u"
         },
         {
           "Name": "label",
@@ -11001,18 +11001,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs="
+          "Value": "sha256-mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorApp.cq4lxbt9uc.wasm",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-cq4lxbt9uc.gz",
+      "Route": "_framework/BlazorApp.k1a3bxlx0u.wasm",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-k1a3bxlx0u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000095328885"
+          "Quality": "0.000095365249"
         }
       ],
       "ResponseHeaders": [
@@ -11022,15 +11022,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10489"
+          "Value": "10485"
         },
         {
           "Name": "ETag",
-          "Value": "\"Iw3g8ZF/1SeMQy4j8pJJCjeuj/AqHpXakFT3UsUthBg=\""
+          "Value": "\"uQ3TJlR54dnXjb+Vb9nefqAEwRW0rFivlRsmvFdQd78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11050,13 +11050,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs=\""
+          "Value": "W/\"mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cq4lxbt9uc"
+          "Value": "k1a3bxlx0u"
         },
         {
           "Name": "label",
@@ -11064,13 +11064,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs="
+          "Value": "sha256-mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorApp.cq4lxbt9uc.wasm.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-cq4lxbt9uc.gz",
+      "Route": "_framework/BlazorApp.k1a3bxlx0u.wasm.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-k1a3bxlx0u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11079,7 +11079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10489"
+          "Value": "10485"
         },
         {
           "Name": "Content-Type",
@@ -11087,11 +11087,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Iw3g8ZF/1SeMQy4j8pJJCjeuj/AqHpXakFT3UsUthBg=\""
+          "Value": "\"uQ3TJlR54dnXjb+Vb9nefqAEwRW0rFivlRsmvFdQd78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11109,7 +11109,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cq4lxbt9uc"
+          "Value": "k1a3bxlx0u"
         },
         {
           "Name": "label",
@@ -11117,7 +11117,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Iw3g8ZF/1SeMQy4j8pJJCjeuj/AqHpXakFT3UsUthBg="
+          "Value": "sha256-uQ3TJlR54dnXjb+Vb9nefqAEwRW0rFivlRsmvFdQd78="
         }
       ]
     },
@@ -11132,7 +11132,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29464"
+          "Value": "29460"
         },
         {
           "Name": "Content-Type",
@@ -11140,11 +11140,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE=\""
+          "Value": "\"EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:47 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11154,18 +11154,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE="
+          "Value": "sha256-EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp.pdb",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-v0x2ec0fca.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-wovm2tp3lr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000044962007"
+          "Quality": "0.000044972117"
         }
       ],
       "ResponseHeaders": [
@@ -11175,15 +11175,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22240"
+          "Value": "22235"
         },
         {
           "Name": "ETag",
-          "Value": "\"486DPpYrc1WzADLkyaL/UyQiMvriFvDQVLXy571VYTM=\""
+          "Value": "\"AS7b/Rc4kZupbnbrZ+BfCvwUzwLbLEDlfozMafIsCCA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11203,19 +11203,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE=\""
+          "Value": "W/\"EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE="
+          "Value": "sha256-EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp.pdb.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-v0x2ec0fca.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-wovm2tp3lr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11224,7 +11224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22240"
+          "Value": "22235"
         },
         {
           "Name": "Content-Type",
@@ -11232,11 +11232,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"486DPpYrc1WzADLkyaL/UyQiMvriFvDQVLXy571VYTM=\""
+          "Value": "\"AS7b/Rc4kZupbnbrZ+BfCvwUzwLbLEDlfozMafIsCCA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11254,168 +11254,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-486DPpYrc1WzADLkyaL/UyQiMvriFvDQVLXy571VYTM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorApp.v0x2ec0fca.pdb",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29464"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0x2ec0fca"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorApp.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorApp.v0x2ec0fca.pdb",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-v0x2ec0fca.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000044962007"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22240"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"486DPpYrc1WzADLkyaL/UyQiMvriFvDQVLXy571VYTM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0x2ec0fca"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorApp.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ua5dCOfKWV+qgJ9hDo6jhPnn+QgfWuZcme8W4kNu4zE="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorApp.v0x2ec0fca.pdb.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-v0x2ec0fca.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "22240"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"486DPpYrc1WzADLkyaL/UyQiMvriFvDQVLXy571VYTM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v0x2ec0fca"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorApp.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-486DPpYrc1WzADLkyaL/UyQiMvriFvDQVLXy571VYTM="
+          "Value": "sha256-AS7b/Rc4kZupbnbrZ+BfCvwUzwLbLEDlfozMafIsCCA="
         }
       ]
     },
@@ -11438,11 +11277,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs=\""
+          "Value": "\"mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:47 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11452,18 +11291,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs="
+          "Value": "sha256-mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp.wasm",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-cq4lxbt9uc.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-k1a3bxlx0u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000095328885"
+          "Quality": "0.000095365249"
         }
       ],
       "ResponseHeaders": [
@@ -11473,15 +11312,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10489"
+          "Value": "10485"
         },
         {
           "Name": "ETag",
-          "Value": "\"Iw3g8ZF/1SeMQy4j8pJJCjeuj/AqHpXakFT3UsUthBg=\""
+          "Value": "\"uQ3TJlR54dnXjb+Vb9nefqAEwRW0rFivlRsmvFdQd78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11501,19 +11340,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs=\""
+          "Value": "W/\"mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zBd7jdrbpN3d/i7j1nAuUWNDHUpCnvJhErr/5bWd9Qs="
+          "Value": "sha256-mPRl5txEGtA3S8a+nh396o6FbJNTO6Aq6F5ijO74WTk="
         }
       ]
     },
     {
       "Route": "_framework/BlazorApp.wasm.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-cq4lxbt9uc.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\6ylt5hya6o-k1a3bxlx0u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11522,7 +11361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10489"
+          "Value": "10485"
         },
         {
           "Name": "Content-Type",
@@ -11530,11 +11369,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Iw3g8ZF/1SeMQy4j8pJJCjeuj/AqHpXakFT3UsUthBg=\""
+          "Value": "\"uQ3TJlR54dnXjb+Vb9nefqAEwRW0rFivlRsmvFdQd78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:30:48 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11552,7 +11391,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Iw3g8ZF/1SeMQy4j8pJJCjeuj/AqHpXakFT3UsUthBg="
+          "Value": "sha256-uQ3TJlR54dnXjb+Vb9nefqAEwRW0rFivlRsmvFdQd78="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorApp.wovm2tp3lr.pdb",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorApp.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 16:58:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wovm2tp3lr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorApp.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorApp.wovm2tp3lr.pdb",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-wovm2tp3lr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000044972117"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22235"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AS7b/Rc4kZupbnbrZ+BfCvwUzwLbLEDlfozMafIsCCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wovm2tp3lr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorApp.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EJAjN0Obc3yYg42OjhsKewDrfxAsLdsmKaL+3en+fM4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorApp.wovm2tp3lr.pdb.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ui6ug4ok6m-wovm2tp3lr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AS7b/Rc4kZupbnbrZ+BfCvwUzwLbLEDlfozMafIsCCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wovm2tp3lr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorApp.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AS7b/Rc4kZupbnbrZ+BfCvwUzwLbLEDlfozMafIsCCA="
         }
       ]
     },
@@ -71158,12 +71158,12 @@
     },
     {
       "Route": "BlazorApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-nnkxdvz8n1.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-ir9v83y2oe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000714285714"
+          "Quality": "0.000592066311"
         }
       ],
       "ResponseHeaders": [
@@ -71173,15 +71173,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71201,13 +71201,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "W/\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
@@ -71222,7 +71222,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4653"
+          "Value": "5525"
         },
         {
           "Name": "Content-Type",
@@ -71230,11 +71230,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71244,13 +71244,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
     {
       "Route": "BlazorApp.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-nnkxdvz8n1.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-ir9v83y2oe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71259,7 +71259,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "Content-Type",
@@ -71267,11 +71267,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71289,18 +71289,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g="
+          "Value": "sha256-gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o="
         }
       ]
     },
     {
-      "Route": "BlazorApp.nnkxdvz8n1.bundle.scp.css",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-nnkxdvz8n1.gz",
+      "Route": "BlazorApp.ir9v83y2oe.bundle.scp.css",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-ir9v83y2oe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000714285714"
+          "Quality": "0.000592066311"
         }
       ],
       "ResponseHeaders": [
@@ -71310,15 +71310,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71338,13 +71338,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "W/\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nnkxdvz8n1"
+          "Value": "ir9v83y2oe"
         },
         {
           "Name": "label",
@@ -71352,12 +71352,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
     {
-      "Route": "BlazorApp.nnkxdvz8n1.bundle.scp.css",
+      "Route": "BlazorApp.ir9v83y2oe.bundle.scp.css",
       "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71367,7 +71367,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4653"
+          "Value": "5525"
         },
         {
           "Name": "Content-Type",
@@ -71375,11 +71375,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71389,7 +71389,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nnkxdvz8n1"
+          "Value": "ir9v83y2oe"
         },
         {
           "Name": "label",
@@ -71397,13 +71397,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
     {
-      "Route": "BlazorApp.nnkxdvz8n1.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-nnkxdvz8n1.gz",
+      "Route": "BlazorApp.ir9v83y2oe.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\hcgmxbnh7f-ir9v83y2oe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71412,7 +71412,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "Content-Type",
@@ -71420,11 +71420,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71442,7 +71442,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nnkxdvz8n1"
+          "Value": "ir9v83y2oe"
         },
         {
           "Name": "label",
@@ -71450,18 +71450,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g="
+          "Value": "sha256-gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o="
         }
       ]
     },
     {
-      "Route": "BlazorApp.nnkxdvz8n1.styles.css",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-nnkxdvz8n1.gz",
+      "Route": "BlazorApp.ir9v83y2oe.styles.css",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-ir9v83y2oe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000714285714"
+          "Quality": "0.000592066311"
         }
       ],
       "ResponseHeaders": [
@@ -71471,15 +71471,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71499,13 +71499,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "W/\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nnkxdvz8n1"
+          "Value": "ir9v83y2oe"
         },
         {
           "Name": "label",
@@ -71513,12 +71513,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
     {
-      "Route": "BlazorApp.nnkxdvz8n1.styles.css",
+      "Route": "BlazorApp.ir9v83y2oe.styles.css",
       "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71528,7 +71528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4653"
+          "Value": "5525"
         },
         {
           "Name": "Content-Type",
@@ -71536,11 +71536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71550,7 +71550,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nnkxdvz8n1"
+          "Value": "ir9v83y2oe"
         },
         {
           "Name": "label",
@@ -71558,13 +71558,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
     {
-      "Route": "BlazorApp.nnkxdvz8n1.styles.css.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-nnkxdvz8n1.gz",
+      "Route": "BlazorApp.ir9v83y2oe.styles.css.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-ir9v83y2oe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71573,7 +71573,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "Content-Type",
@@ -71581,11 +71581,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71603,7 +71603,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nnkxdvz8n1"
+          "Value": "ir9v83y2oe"
         },
         {
           "Name": "label",
@@ -71611,18 +71611,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g="
+          "Value": "sha256-gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o="
         }
       ]
     },
     {
       "Route": "BlazorApp.styles.css",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-nnkxdvz8n1.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-ir9v83y2oe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000714285714"
+          "Quality": "0.000592066311"
         }
       ],
       "ResponseHeaders": [
@@ -71632,15 +71632,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71660,13 +71660,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "W/\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
@@ -71681,7 +71681,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4653"
+          "Value": "5525"
         },
         {
           "Name": "Content-Type",
@@ -71689,11 +71689,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA=\""
+          "Value": "\"0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71703,13 +71703,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LeD0XSPfMwGauXGpnTmtPw6zAsrYhtJBMzvjXR7TyNA="
+          "Value": "sha256-0ijQHLezrRvk/WBEsEZFrt6FHCnXwkhpMefPMeVThl4="
         }
       ]
     },
     {
       "Route": "BlazorApp.styles.css.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-nnkxdvz8n1.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\ukbyxv6qc4-ir9v83y2oe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71718,7 +71718,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1399"
+          "Value": "1688"
         },
         {
           "Name": "Content-Type",
@@ -71726,11 +71726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g=\""
+          "Value": "\"gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 21 Sep 2025 18:33:25 GMT"
+          "Value": "Mon, 22 Sep 2025 16:58:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71748,7 +71748,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tZpET4XY3KkAlo0T4BQVtFdgaS+RbZvLBXkHZ0V7v7g="
+          "Value": "sha256-gnHnHKUavSQdtLgYsA1v24HytVuckymcxzPs9LtIZ1o="
         }
       ]
     },
@@ -72215,13 +72215,13 @@
       ]
     },
     {
-      "Route": "index.6npwuytmlh.html",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-6npwuytmlh.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-iym5m5pygo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001953125000"
+          "Quality": "0.002123142251"
         }
       ],
       "ResponseHeaders": [
@@ -72231,19 +72231,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511"
+          "Value": "470"
         },
         {
           "Name": "ETag",
-          "Value": "\"q/KTvyhxIYADZvIt+qO2sy2tLTQEjWJ+T8rYH3HKTcs=\""
+          "Value": "\"3Rhc4Gb0mPEpknMB2KXRCO9q/G34xNTcm6rSpbDuNmE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:29:46 GMT"
+          "Value": "Mon, 22 Sep 2025 16:51:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -72259,26 +72259,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g=\""
+          "Value": "W/\"huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "6npwuytmlh"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g="
+          "Value": "sha256-huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4="
         }
       ]
     },
     {
-      "Route": "index.6npwuytmlh.html",
+      "Route": "index.html",
       "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72288,7 +72280,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1090"
+          "Value": "975"
         },
         {
           "Name": "Content-Type",
@@ -72296,11 +72288,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g=\""
+          "Value": "\"huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:29:46 GMT"
+          "Value": "Mon, 22 Sep 2025 16:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-iym5m5pygo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "470"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Rhc4Gb0mPEpknMB2KXRCO9q/G34xNTcm6rSpbDuNmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 16:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Rhc4Gb0mPEpknMB2KXRCO9q/G34xNTcm6rSpbDuNmE="
+        }
+      ]
+    },
+    {
+      "Route": "index.iym5m5pygo.html",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-iym5m5pygo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002123142251"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "470"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Rhc4Gb0mPEpknMB2KXRCO9q/G34xNTcm6rSpbDuNmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 16:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iym5m5pygo"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.iym5m5pygo.html",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 16:51:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72310,7 +72447,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6npwuytmlh"
+          "Value": "iym5m5pygo"
         },
         {
           "Name": "label",
@@ -72318,13 +72455,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g="
+          "Value": "sha256-huIl+qF++oOxFniyGiWcrCG0LcO2caVyqzduqm9aPg4="
         }
       ]
     },
     {
-      "Route": "index.6npwuytmlh.html.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-6npwuytmlh.gz",
+      "Route": "index.iym5m5pygo.html.gz",
+      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-iym5m5pygo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72333,7 +72470,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511"
+          "Value": "470"
         },
         {
           "Name": "Content-Type",
@@ -72341,11 +72478,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"q/KTvyhxIYADZvIt+qO2sy2tLTQEjWJ+T8rYH3HKTcs=\""
+          "Value": "\"3Rhc4Gb0mPEpknMB2KXRCO9q/G34xNTcm6rSpbDuNmE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:29:46 GMT"
+          "Value": "Mon, 22 Sep 2025 16:51:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72363,7 +72500,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6npwuytmlh"
+          "Value": "iym5m5pygo"
         },
         {
           "Name": "label",
@@ -72371,144 +72508,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-q/KTvyhxIYADZvIt+qO2sy2tLTQEjWJ+T8rYH3HKTcs="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-6npwuytmlh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001953125000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "511"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q/KTvyhxIYADZvIt+qO2sy2tLTQEjWJ+T8rYH3HKTcs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:29:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1090"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:29:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LsCGELZ15kCdqmvjFZ4el436FXx+pQHMrAQvCBRmq4g="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\masa0\\source\\repos\\DSS\\ekof-dss-teaching-samples\\01-html-css-bootstrap\\wwwroot\\MyBlzorApp\\Drugi-domaci-BlazorApp\\obj\\Debug\\net9.0\\compressed\\eoy1i7xi3c-6npwuytmlh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"q/KTvyhxIYADZvIt+qO2sy2tLTQEjWJ+T8rYH3HKTcs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 22 Sep 2025 16:29:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-q/KTvyhxIYADZvIt+qO2sy2tLTQEjWJ+T8rYH3HKTcs="
+          "Value": "sha256-3Rhc4Gb0mPEpknMB2KXRCO9q/G34xNTcm6rSpbDuNmE="
         }
       ]
     },
